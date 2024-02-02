@@ -1,7 +1,7 @@
 # FIFA21 Valuable Player Prediction
 
 ## Overview:
-This project aims to predict valuable players in FIFA21 using machine learning techniques. It involves several steps from Exploratory Data Analysis (EDA) to Model Building and Evaluation.
+This project aims to predict valuable players in FIFA21 using machine learning techniques. In the world of professional soccer, identifying valuable players is crucial for clubs in building successful teams and making strategic decisions in player recruitment and management. By leveraging data analysis and machine learning, this project provides insights into player valuation and helps clubs identify undervalued players with high potential.
 
 ## Dataset Information:
 - The dataset comprises FIFA21 player information.
